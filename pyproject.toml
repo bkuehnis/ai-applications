@@ -15,7 +15,6 @@ dependencies = [
     "jupyter>=1.0.0",
     "jupyterlab>=4.3.3",
     "ipykernel>=6.29.5",
-    "tensorflow-macos>=2.11.0",
     "torch>=2.5.1",
     "torchvision>=0.20.1",
     "transformers>=4.49.0",
