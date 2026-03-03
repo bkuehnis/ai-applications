@@ -14,7 +14,7 @@
 
 ## Notes
 
-**Metric:** R² (5-Fold Cross-Validation)
+**Metric:** R², RMSE or other (5-Fold Cross-Validation)
 
 **Created Features:**  
 - Apartment Age  
